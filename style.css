@@ -68,7 +68,7 @@ color:olivedrab
 h1.intro{
     position:absolute;
     top: 10%;
-    text-align: center;
+    text-align:left;
     color:darkolivegreen;
     background-color:whitesmoke;
 }
@@ -115,7 +115,8 @@ figcaption.caption {
 /* intro note in comparisons_pg */
 
 #comp_note{
-    left:10%;
+    left:0%;
+    background-color: whitesmoke;
 }
 
 
