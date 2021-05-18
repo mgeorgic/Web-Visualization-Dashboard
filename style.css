@@ -5,9 +5,14 @@
     background-color: rgb(18, 216, 216);
 }
 
+.navbar-brand text-white background-color-teal{
+    background-color: aqua;
+}
+
 .navbar-nav ml-auto{
     background-color: slategrey;
     color: snow;
+    text-shadow: aqua;
 }
 <h3>{
     text-align: center;
