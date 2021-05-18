@@ -27,9 +27,7 @@ color:olivedrab
 
 <h3>
 
-
-
-/* Here we define some styles that will ONLY be applied at screen sizes below certain pixels */
+/* Styles that will be applied at screen sizes below certain pixels */
 
 @media (max-width: 900px) {
     .navbar-dark{
@@ -53,9 +51,7 @@ color:olivedrab
 
     }
 
-
-
-    /* comparisons_pg figure captions */
+    /* Comparisons figure captions */
 
     figcaption.caption {
         right:1000px;
@@ -87,17 +83,13 @@ h1.intro{
     text-align: center;
 }
 
-
-
-/* header (first row) under nav bar */
+/* Header (under nav bar)*/
 #header {
     position:absolute;
     color: cadetblue;
     top: 20%;
     text-align: right;
 }
-
-
 
 p.description {
     position:relative;
@@ -107,9 +99,7 @@ p.description {
     margin: 10%;
 }
 
-
-
-/* comparisons_pg figure captions */
+/* comparisons figure captions */
 figcaption.caption {
     text-align: center;
     font-size: 24px;
@@ -121,20 +111,7 @@ figcaption.caption {
 
 #comp_note{
     left:0%;
-    background-color: whitesmoke;
 }
-
-
-
-/* in Data_pg??? May be unnecessary. */
-
-#CityData {
-    position:absolute;
-    top: 20%;
-    left:25%;
-}
-
-
 
 /* bottom header (visualization section) */
 
@@ -159,8 +136,6 @@ figcaption.caption {
     width: 100%;
     bottom: 5px;
 }
-
-
 
 #bottom_space_data_pg{
     position: relative;
