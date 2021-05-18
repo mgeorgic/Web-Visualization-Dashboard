@@ -1,5 +1,19 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
+Climate Analysis and Exploration using Python, Pandas, Bootstrap, CSS, and HTML
+
+## Techniques Demonstrated:
+
+• Web Site Engineering: used several url’s for user to navigate between a landing page, more in depth plot desciptions and the data table.
+
+• Data Analysis: used Pandas and Python on Cities.csv data table
+
+## Repository Navigation: in HW folder
+
+Resources: 2 CSV’s holding the station and measurement data from the SQLite Hawaii database, which was analyzed.
+Code: 
+Images: contains all the screenshots from web design
+
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
