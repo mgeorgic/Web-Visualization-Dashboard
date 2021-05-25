@@ -5,8 +5,8 @@ Climate Analysis and Exploration using Python, Pandas, Bootstrap, CSS, and HTML
 ## Techniques Demonstrated:
 
 • Web Site Engineering: used several url’s for user to navigate between a landing page, more in depth plot desciptions and the data table.
-
 • Data Analysis: used Pandas and Python on Cities.csv data table
+• 
 
 ## Repository Navigation: in HW folder
 
